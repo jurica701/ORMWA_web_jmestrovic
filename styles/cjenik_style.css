@@ -1,0 +1,30 @@
+main {
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+#cjenik th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #003300;
+    color: white;
+}
+
+#cjenik td, #cjenik th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#cjenik {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#cjenik tr:nth-child(even) { background-color: #ccffcc; }
+
+#cjenik tbody tr:hover { background-color: #ffd966; }
+
+#cjenik caption {
+    margin: 10px;
+}

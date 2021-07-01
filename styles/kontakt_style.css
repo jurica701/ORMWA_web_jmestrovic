@@ -1,0 +1,17 @@
+section {
+  width: 100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+body{
+	background: url('../images/envelope.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+p {
+  color: #000000;
+  border: 1px solid #000000;
+  display:inline-block;
+}
